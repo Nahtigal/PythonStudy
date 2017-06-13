@@ -1,0 +1,1 @@
+[{"Items": ["Wild hog", "Magic wand", "Some shit"], "Score": 456, "Name": "Ramon"}, {"Items": ["Magic ring", "Iron but", "Double bubble"], "Score": 478, "Name": "Patrik"}]
