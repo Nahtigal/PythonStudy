@@ -1,1 +1,2 @@
 This is new file for git repo
+This this the changes in new file
